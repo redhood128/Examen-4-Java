@@ -1,4 +1,4 @@
-package entidades; // O el nombre de tu paquete
+package entidades; 
 
 import java.time.LocalDate;
 
@@ -13,7 +13,7 @@ public class Temperatura {
         this.temperatura = temperatura;
     }
 
-    // --- Getters y Setters ---
+    
     
     public String getCiudad() {
         return ciudad;
